@@ -35,6 +35,7 @@
 
     &__content {
         grid-area: content;
-        overflow-x: hidden;
+        // I'm sure commenting this will have some side-effect… O:-)
+        // overflow-x: hidden;
     }
 }

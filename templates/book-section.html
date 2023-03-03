@@ -67,6 +67,13 @@
                 <span class="book-page-subtitle">({{section.extra.subtitle}})</span>
             {% endif %}
         </h1>
+        {% if section.toc | length > 1 %}
+            <ul style="width: 200px; font-size: 1rem; position: absolute; right: -216px; padding: 0; margin: 0; overflow-x: hidden;">
+                {% for header in section.toc %}
+                    <li style="list-style: none;"><a href="#{{ header.id }}">{{ header.title }}</a></li>
+                {% endfor %}
+            </ul>
+        {% endif %}
         <div class="media-content">{{ section.content | safe }}</div>
         <div class="book-footer">
             <nav class="book-footer__nav">
