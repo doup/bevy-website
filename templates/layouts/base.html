@@ -1,5 +1,9 @@
 {% import "macros/header.html" as header_macros %}
 
+{# This block is used to pass variables from child templates to parent layouts #}
+{# See: https://github.com/Keats/tera/issues/692#issuecomment-977755788 #}
+{% block extra_data %}{% endblock %}
+
 {% if section and section.title %}
     {% set page_title = "Bevy - " ~ section.title %}
 {% elif page and page.title %}
