@@ -1,6 +1,6 @@
 use crate::{
     github_client::{GithubClient, GithubIssuesResponse},
-    helpers::{get_merged_prs, get_pr_area},
+    helpers::{escape_toml_string, get_merged_prs, get_pr_area},
 };
 use std::{collections::BTreeMap, fmt::Write, path::PathBuf};
 
@@ -50,7 +50,7 @@ pub fn generate_changelog(
 
         for (title, pr) in prs {
             writeln!(output, "[[areas.prs]]")?;
-            writeln!(output, "title = \"{}\"", title.trim().replace('"', "\\\""))?;
+            writeln!(output, "title = \"{}\"", escape_toml_string(&title))?;
             writeln!(output, "number = {}", pr.number)?;
 
             count += 1;

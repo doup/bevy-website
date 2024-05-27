@@ -126,3 +126,7 @@ pub fn get_contributors(
         }
     }
 }
+
+pub fn escape_toml_string(s: &str) -> String {
+    s.trim().replace('"', "\\\"")
+}

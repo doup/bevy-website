@@ -2,7 +2,7 @@ use anyhow::Context;
 
 use crate::{
     github_client::{GithubClient, GithubIssuesResponse},
-    helpers::{get_merged_prs, get_pr_area},
+    helpers::{escape_toml_string, get_merged_prs, get_pr_area},
     markdown::write_markdown_section,
 };
 use std::{collections::BTreeMap, io::Write as IoWrite, path::PathBuf};
@@ -131,7 +131,7 @@ file_name = "{file_name}.md"
             .map(|area| format!("\"{area}\""))
             .collect::<Vec<_>>()
             .join(","),
-        title = title.trim().replace('"', "\\\"")
+        title = escape_toml_string(&title)
     )
 }
 

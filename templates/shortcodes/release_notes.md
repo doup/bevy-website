@@ -8,8 +8,10 @@
 ### {{ release_note.title }}
 
 <ul class="release-feature-meta">
-  <li>Authors: {{ release_note.authors | join(sep=", ")}}</li>
-  <li><a href="{{ release_note.url }}">Pull Request</a></li>
+  {% for pr in release_note.prs %}
+  <li>Authors: {{ pr.authors | join(sep=", ")}}</li>
+  <li><a href="{{ pr.url }}">{{ pr.title }}</a></li>
+  {% endfor %}
 </ul>
 
 {{ release_note_body }}

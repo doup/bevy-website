@@ -1,8 +1,8 @@
 use anyhow::Context;
 
 use crate::{
-    github_client::GithubClient,
-    helpers::{get_contributors, get_merged_prs},
+    github_client::{GithubClient, GithubIssuesResponse},
+    helpers::{escape_toml_string, get_contributors, get_merged_prs},
 };
 use std::{collections::HashSet, io::Write as IoWrite, path::PathBuf};
 
@@ -54,7 +54,7 @@ pub fn generate_release_notes(
         authors.extend(contributors);
 
         notes_metadata.push(generate_metadata_block(
-            &title, &authors, pr.number, &file_name,
+            &title, &authors, &pr, &file_name,
         ));
 
         let file_path = path.join(format!("{file_name}.md"));
@@ -82,22 +82,26 @@ pub fn generate_release_notes(
 fn generate_metadata_block(
     title: &str,
     authors: &[String],
-    pr_number: i32,
+    pr: &GithubIssuesResponse,
     file_name: &str,
 ) -> String {
     // TODO should probably add some weight for sorting
     format!(
         r#"[[release_notes]]
 title = "{title}"
+file_name = "{file_name}.md"
+[[release_notes.prs]]
+title = "{pr_title}"
 authors = [{authors}]
 url = "https://github.com/bevyengine/bevy/pull/{pr_number}"
-file_name = "{file_name}.md"
 "#,
         authors = authors
             .iter()
             .map(|author| format!("\"{author}\""))
             .collect::<Vec<_>>()
             .join(","),
-        title = title.trim().replace('"', "\\\"")
+        title = escape_toml_string(title),
+        pr_title = escape_toml_string(&pr.title),
+        pr_number = pr.number,
     )
 }
