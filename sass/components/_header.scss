@@ -36,8 +36,10 @@
 
   &__message {
     display: none;
-    font-size: 1.28rem;
-    font-weight: 500;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 1px;
     color: #868686;
     margin-left: 12px;
     white-space: nowrap;
@@ -47,7 +49,7 @@
     }
 
     @media #{$bp-desktop-up} {
-      font-size: 1.3rem;
+      font-size: 0.9rem;
     }
 
     &:empty {
@@ -65,7 +67,7 @@
     flex-shrink: 0;
 
     &:not(:last-child) {
-      margin-right: 8px;
+      margin-right: 12px;
     }
 
     &--github {
@@ -76,7 +78,7 @@
         width: auto;
 
         @media #{$bp-tablet-portrait-up} {
-          height: 35px;
+          height: 30px;
         }
       }
 

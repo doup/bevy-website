@@ -1,18 +1,50 @@
 .button {
-  $color-blue: #4a6e91;
+  $border-width: 2px;
+
+  --button-color: #4a6e91;
+  --button-shadow-opacity: 0.2;
 
   display: inline-flex;
   align-items: center;
-  background-color: $color-blue;
-  border: 3px solid lighten($color-blue, 13%);
-  padding: 6px 8px;
+  // background-color: var(--button-color);
+  // border: 2px solid unquote("hsl(from var(--button-color) h s calc(l + 13))");
+  padding: 8px 12px;
   border-radius: $border-radius;
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 400;
   transition: transform $duration-fast;
+  position: relative;
+  z-index: 0;
+  box-shadow: 0px 4px 16px unquote("hsl(from var(--button-color) h 90 60 / var(--button-shadow-opacity))");
+
+  &:before {
+    content: "";
+    position: absolute;
+    inset: 0px;
+    background: linear-gradient(
+      to top,
+      unquote("hsl(from var(--button-color) h calc(s + 50) calc(l - 10))"),
+      unquote("hsl(from var(--button-color) h calc(s + 30) calc(l + 13))"),
+    );
+    border-radius: $border-radius;
+    z-index: -2;
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    inset: $border-width;
+    background-color: var(--button-color);
+    border-radius: $border-radius - $border-width;
+    z-index: -1;
+  }
 
   &:hover {
-    background-color: darken($color-blue, 3%);
+    --button-shadow-opacity: 0.25;
+
+    &:after {
+      background-color: unquote("hsl(from var(--button-color) h s calc(l + 3))");
+    }
   }
 
   &:active {
@@ -22,7 +54,7 @@
   &,
   &:hover,
   &:visited {
-    color: $color-white;
+    color: unquote("hsl(from var(--button-color) h calc(s + 50) 96)");
     text-decoration: none;
   }
 
@@ -30,16 +62,11 @@
     height: 1.1em;
     width: auto;
     vertical-align: middle;
-    margin-left: 0.2em;
+    margin-left: 0.4em;
     font-size: 0.9em;
   }
 
   &--pink {
-    background-color: $color-pink;
-    border-color: lighten($color-pink, 13%);
-
-    &:hover {
-      background-color: darken($color-pink, 3%);
-    }
+    --button-color: #{$color-pink};
   }
 }
