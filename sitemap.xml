@@ -1,758 +1,4259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    
     <url>
         <loc>https://bevyengine.org/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/arugio/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bavy-balls/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-combat/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-pong/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-rider/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-sokoban/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-space-invaders/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-squares/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bevy-tetris/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/bounce-up/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/build-a-better-buddy/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/cheaters-never-win/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/colonize/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/comet-super-kaizen-overloaded-comet/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/flappy-bevy/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/flock-rs/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/i-sjon-kan-ingen-hora-dig-skrika/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/kataster/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/keep-inside/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/keep-moving-and-nobody-burns/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/labyrinth-game/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/libracity/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/murder-user-dungeon/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/not-snake/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/oicana/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/one-click-ninja/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/per-spatium/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/pixie-wrangler/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/projectris/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/robbo/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/sio2/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/smoke-rs/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/snake-bevy/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/taileater/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/taipo/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/thallada-bevy-nbody/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/theta-wave/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/unbalanced-brawl/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/unflock/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/warlock-s-gambit/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/whoisdavid-bevy-nbody/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/games/zenith/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/tools/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/tools/bevy-calc/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/tools/fun-notation/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/apps/tools/nodus/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-canvas/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-earcutr/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-ecs-ldtk/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-ecs-tilemap/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-interact-2d/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-ldtk/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-life/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-parallax/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-pixels/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-prototype-lyon/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-prototype-parallax/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-retro/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-tiled/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-tilemap/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/2d/bevy-tileset/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-4x-camera/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-atmosphere/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-config-cam/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-fly-camera/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-flycam/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-hanabi/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-hikari/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-mod-picking/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-mod-raycast/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-obj/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-orbit-controls/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-stl/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-transform-gizmo/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-vox-mesh/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-vox/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/bevy-wow/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/3d/smooth-bevy-cameras/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/accessibility/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/accessibility/bevy-fluent/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ai/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ai/big-brain/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/animation/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/animation/benimator/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/animation/bevy-easings/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/animation/bevy-manim/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/animation/bevy-sprite-animation/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/animation/bevy-tweening/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/bevy-asset-loader/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/bevy-asset-ron/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/bevy-assetio-zip/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/bevy-assets-bundler/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/bevy-embedded-assets/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/asset loading/bevy-web-asset/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/audio/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/audio/bevy-kira-audio/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/backends/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/backends/bevy-doryen/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/backends/bevy-miniquad/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/backends/bevy-webgl2/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/backends/prototype-bevy-sdl2/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/autodefault/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/bevy-debug-text-overlay/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/bevy-inspector-egui/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/bevy-mod-debug-console/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/bevy-mod-debugdump/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/bevy-remote-devtools/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/development tools/bevycheck/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-contrib-colors/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-debug-lines/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-discovery/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-event-set/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-framepace/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-loading/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-match-3/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-plot/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-proto/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-prototype-inline-assets/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-scene-hook/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/helpers/bevy-system-graph/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/bevy-advanced-input/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/bevy-input-actionmap/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/bevy-midi/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/bevy-osc/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/bevy-serial/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/ezinput/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/kurinji/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/input/leafwing-input-manager/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-backroll/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-ggrs/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-networking-turbulence/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-prototype-laminar-networking/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-prototype-simple-net/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-simple-networking/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bevy-spicy-networking/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/bootleg-networking/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/networking/naia/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/physics/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/physics/bevy-physimple/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/physics/bevy-rapier/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/physics/heron/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/physics/impacted/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/physics/physme/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/platform integration/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/platform integration/bevy-steamworks/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/shapes/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/shapes/bevy-smud/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/shapes/bevy-svg/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/templates/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/templates/bevy-game-template/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ui/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ui/bevy-console/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ui/bevy-egui/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ui/bevy-megaui/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ui/bevy-ninepatch/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/assets/ui/bevy-ui-navigation/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/0-3-to-0-4-unofficial/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/bevy-cheatbook/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/bevy-chinese-website-bevyzhong-wen-wang/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/making-a-p2p-web-game-with-rollback/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/making-a-rhythm-game/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/making-a-snake-clone/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/making-chess-clone-in-3d/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/maz-digital-blog/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/minesweeper-tutorial/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/official-bevy-examples/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/official-migration-guides/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/assets/learning/using-rapier-for-physics/</loc>
-    </url>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/community/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/aceeri/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/alice-i-cecile/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/cart/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/cleancut/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/harudagondi/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/inodentry/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/james7132/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/janhohenheim/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/jondolf/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/kurtkuehnert/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/mockersf/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/mrgvsv/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/nicopap/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/therawmeatball/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/donate/vrixyz/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/0crispy/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/arvin/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/charlotte/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/cryscan/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/ctimursefergil/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/daslixou/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/feenster/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/jacopograndi/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/killercup/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/lewiszlw/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/mev-lyshkin/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/nylestroke/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/paul-hansen/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/phaestusfox/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/schell/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/shelim/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/shown-zhang/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/solarliner/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/therabug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/vandie/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/wilk10/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/wpederzoli/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/community members/zkat/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/aceeri/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/aevyrie/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/alice-i-cecile/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/bd103/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/cart/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/cleancut/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/djeedai/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/harudagondi/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/hymm/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/icesentry/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/inodentry/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/jakobhellermann/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/james7132/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/janhohenheim/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/jms55/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/jojojet/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/jondolf/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/kurtkuehnert/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/maniwani/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/mockersf/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/mrgvsv/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/nicopap/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/niklasei/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/robtfm/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/rparrett/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/soqb/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/superdump/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/therawmeatball/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/trialdragon/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/vitalyankh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/community/people/the bevy organization/vrixyz/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/donate/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/donate/options/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/2d-shapes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/2d-viewport-to-world/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/bloom-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/bounding-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/cpu-draw/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/custom-gltf-vertex-attribute/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/mesh2d-alpha-mode/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/mesh2d-arcs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/mesh2d-manual/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/mesh2d-vertex-color-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/mesh2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/move-sprite/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/pixel-grid-snap/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/rotation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/sprite-animation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/sprite-flipping/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/sprite-sheet/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/sprite-slice/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/sprite-tile/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/sprite/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/text2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/2d-rendering/transparency-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/3d-scene/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/3d-shapes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/3d-viewport-to-world/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/animated-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/atmospheric-fog/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/blend-modes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/bloom-3d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/camera-sub-view/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/color-grading/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/deferred-rendering/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/fog/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/generate-custom-mesh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/lighting/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/load-gltf-extras/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/load-gltf/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/mesh-ray-cast/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/motion-blur/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/orthographic/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/parallax-mapping/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/parenting/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/pbr/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/post-processing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/query-gltf-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/render-to-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/shadow-biases/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/shadow-caster-receiver/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/spherical-area-lights/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/split-screen/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/spotlight/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/tonemapping/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/transmission/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/transparency-3d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/two-passes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/update-gltf-scene/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/vertex-colors/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/visibility-range/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/3d-rendering/volumetric-fog/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/animated-fox/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/animated-transform/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/animated-ui/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/animation-events/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/animation-graph/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/animation-masks/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/color-animation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/custom-skinned-mesh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/eased-motion/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/easing-functions/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/gltf-skinned-mesh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/animation/morph-targets/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/application/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/application/empty-defaults/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/application/logs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/application/plugin-group/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/application/plugin/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/assets/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/assets/custom-asset/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/assets/embedded-asset/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/assets/multi-asset-sync/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/assets/repeated-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/audio-control/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/audio/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/decodable/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/pitch/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/soundtrack/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/spatial-audio-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/audio/spatial-audio-3d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/camera/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/camera/2d-screen-shake/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/camera/2d-top-down-camera/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/camera/camera-orbit/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/camera/first-person-view-model/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/camera/projection-zoom/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/dev-tools/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/dev-tools/fps-overlay/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/diagnostics/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/diagnostics/custom-diagnostic/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/diagnostics/enabling-disabling-diagnostic/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/diagnostics/log-diagnostics/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ecs-entity-component-system/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ecs-entity-component-system/iter-combinations/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ecs-entity-component-system/observer-propagation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ecs-entity-component-system/observers/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/games/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/games/alien-cake-addict/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/games/breakout/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/games/contributors/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/games/game-menu/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/games/loading-screen/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/gizmos/2d-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/gizmos/3d-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/gizmos/axes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/gizmos/light-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/cubic-splines/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/custom-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/random-sampling/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/render-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/sampling-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/math/smooth-follow/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/movement/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/movement/physics-in-fixed-timestep/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/picking/mesh-picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/picking/simple-picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/picking/sprite-picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/animate-shader/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/array-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/automatic-instancing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/custom-phase-item/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/custom-post-processing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/custom-shader-instancing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/custom-vertex-attribute/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/extended-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/shader-defs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/shader-material-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/shader-material-glsl/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/shader-material-screenspace-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/shader-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/specialized-mesh-pipeline/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/shaders/storage-buffer/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/bevymark/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-animated-sprites/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-buttons/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-cameras-lights/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-cubes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-foxes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-glyphs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-lights/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/stress-tests/many-sprites/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/tools/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/tools/gamepad-viewer/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/tools/scene-viewer/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/transforms/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/transforms/3d-rotation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/transforms/align/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/transforms/scale/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/transforms/transform/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/transforms/translation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/borders/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/box-shadow/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/button/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/display-and-visibility/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/flex-layout/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/font-atlas-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ghost-nodes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/grid/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/overflow-clip-margin/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/overflow-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/overflow/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/relative-cursor-position/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/render-ui-to-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/scroll/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/size-constraints/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/text-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/text-wrap-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/text/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/transparency-ui/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui-scaling/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui-texture-atlas-slice/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui-texture-atlas/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui-texture-slice-flip-and-tile/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui-texture-slice/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/ui/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/viewport-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/ui-user-interface/z-index/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/clear-color/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/custom-user-event/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/low-power/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/scale-factor-override/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/screenshot/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/window-resizing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples-webgpu/window/window-settings/</loc>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/examples/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/mesh2d-manual/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/2d-shapes/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/mesh2d/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/2d-viewport-to-world/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/rect/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/bloom-2d/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/sprite-flipping/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/bounding-2d/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/sprite-sheet/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/cpu-draw/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/sprite/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/custom-gltf-vertex-attribute/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/2d/text2d/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/mesh2d-alpha-mode/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/mesh2d-arcs/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/3d-scene/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/mesh2d-manual/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/lighting/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/mesh2d-vertex-color-texture/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/load-gltf/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/mesh2d/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/orthographic/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/move-sprite/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/parenting/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/pixel-grid-snap/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/pbr/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/rotation/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/spherical-area-lights/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/sprite-animation/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/texture/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/sprite-flipping/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/3d/update-gltf-scene/</loc>
+        <loc>https://bevyengine.org/examples/2d-rendering/sprite-sheet/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/2d-rendering/sprite-slice/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/2d-rendering/sprite-tile/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/2d-rendering/sprite/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/2d-rendering/text2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/2d-rendering/transparency-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/3d-scene/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/3d-shapes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/3d-viewport-to-world/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/animated-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/atmospheric-fog/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/blend-modes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/bloom-3d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/camera-sub-view/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/color-grading/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/deferred-rendering/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/fog/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/generate-custom-mesh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/lighting/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/load-gltf-extras/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/load-gltf/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/mesh-ray-cast/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/motion-blur/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/orthographic/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/parallax-mapping/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/parenting/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/pbr/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/post-processing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/query-gltf-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/render-to-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/shadow-biases/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/shadow-caster-receiver/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/spherical-area-lights/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/split-screen/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/spotlight/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/tonemapping/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/transmission/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/transparency-3d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/two-passes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/update-gltf-scene/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/vertex-colors/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/visibility-range/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/3d-rendering/volumetric-fog/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/animated-fox/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/animated-transform/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/animated-ui/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/animation-events/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/animation-graph/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/animation-masks/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/color-animation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/custom-skinned-mesh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/eased-motion/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/easing-functions/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/gltf-skinned-mesh/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/animation/morph-targets/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/application/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/application/empty-defaults/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/application/logs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/application/plugin-group/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/application/plugin/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/assets/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/assets/custom-asset/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/assets/embedded-asset/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/assets/multi-asset-sync/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/assets/repeated-texture/</loc>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/examples/audio/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/audio/audio-control/</loc>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/examples/audio/audio/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ecs/</loc>
+        <loc>https://bevyengine.org/examples/audio/decodable/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ecs/iter-combinations/</loc>
+        <loc>https://bevyengine.org/examples/audio/pitch/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/game/</loc>
+        <loc>https://bevyengine.org/examples/audio/soundtrack/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/game/alien-cake-addict/</loc>
+        <loc>https://bevyengine.org/examples/audio/spatial-audio-2d/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/game/breakout/</loc>
+        <loc>https://bevyengine.org/examples/audio/spatial-audio-3d/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/shader/</loc>
+        <loc>https://bevyengine.org/examples/camera/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/shader/shader-instancing/</loc>
+        <loc>https://bevyengine.org/examples/camera/2d-screen-shake/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/shader/shader-material-glsl/</loc>
+        <loc>https://bevyengine.org/examples/camera/2d-top-down-camera/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/shader/shader-material/</loc>
+        <loc>https://bevyengine.org/examples/camera/camera-orbit/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/camera/first-person-view-model/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/camera/projection-zoom/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/dev-tools/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/dev-tools/fps-overlay/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/diagnostics/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/diagnostics/custom-diagnostic/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/diagnostics/enabling-disabling-diagnostic/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/diagnostics/log-diagnostics/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ecs-entity-component-system/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ecs-entity-component-system/iter-combinations/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ecs-entity-component-system/observer-propagation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ecs-entity-component-system/observers/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/games/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/games/alien-cake-addict/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/games/breakout/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/games/contributors/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/games/game-menu/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/games/loading-screen/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/gizmos/2d-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/gizmos/3d-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/gizmos/axes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/gizmos/light-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/cubic-splines/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/custom-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/random-sampling/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/render-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/sampling-primitives/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/math/smooth-follow/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/movement/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/movement/physics-in-fixed-timestep/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/picking/mesh-picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/picking/simple-picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/picking/sprite-picking/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/animate-shader/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/array-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/automatic-instancing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/custom-phase-item/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/custom-post-processing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/custom-shader-instancing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/custom-vertex-attribute/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/extended-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/shader-defs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/shader-material-2d/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/shader-material-glsl/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/shader-material-screenspace-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/shader-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/specialized-mesh-pipeline/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/shaders/storage-buffer/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/bevymark/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-animated-sprites/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-buttons/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-cameras-lights/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-cubes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-foxes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-gizmos/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-glyphs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-lights/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/stress-tests/many-sprites/</loc>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/examples/tools/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/tools/bevymark/</loc>
+        <loc>https://bevyengine.org/examples/tools/gamepad-viewer/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ui/</loc>
+        <loc>https://bevyengine.org/examples/tools/scene-viewer/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ui/button/</loc>
+        <loc>https://bevyengine.org/examples/transforms/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ui/text-debug/</loc>
+        <loc>https://bevyengine.org/examples/transforms/3d-rotation/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ui/text/</loc>
+        <loc>https://bevyengine.org/examples/transforms/align/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/examples/ui/ui/</loc>
+        <loc>https://bevyengine.org/examples/transforms/scale/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/transforms/transform/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/transforms/translation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/borders/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/box-shadow/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/button/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/display-and-visibility/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/flex-layout/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/font-atlas-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ghost-nodes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/grid/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/overflow-clip-margin/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/overflow-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/overflow/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/relative-cursor-position/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/render-ui-to-texture/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/scroll/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/size-constraints/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/text-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/text-wrap-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/text/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/transparency-ui/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui-material/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui-scaling/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui-texture-atlas-slice/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui-texture-atlas/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui-texture-slice-flip-and-tile/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui-texture-slice/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/ui/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/viewport-debug/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/ui-user-interface/z-index/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/clear-color/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/custom-user-event/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/low-power/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/scale-factor-override/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/screenshot/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/window-resizing/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/examples/window/window-settings/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/faq/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/foundation/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/foundation/budget/</loc>
+        
+        <lastmod>2024-03-08</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/foundation/bylaws/</loc>
+        
+        <lastmod>2024-02-03</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/foundation/meeting-minutes/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/foundation/meeting-minutes/2024-02-03/</loc>
+        
+        <lastmod>2024-02-03</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/foundation/meeting-minutes/actions-without-meeting/</loc>
+        
+        <lastmod>2024-09-16</lastmod>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/learn/</loc>
+        
     </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/</loc>
+        <loc>https://bevyengine.org/learn/contribute/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/contributing/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/contributing/code/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/creating-examples/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/contributing/docs/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/how-you-can-help/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/faq/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/opening-pull-requests/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/getting-started/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/reporting-issues/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/getting-started/apps/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/reviewing-pull-requests/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/getting-started/ecs/</loc>
+        <loc>https://bevyengine.org/learn/contribute/helping-out/writing-docs/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/getting-started/plugins/</loc>
+        <loc>https://bevyengine.org/learn/contribute/introduction/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/getting-started/resources/</loc>
+        <loc>https://bevyengine.org/learn/contribute/project-information/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/getting-started/setup/</loc>
+        <loc>https://bevyengine.org/learn/contribute/project-information/bevy-organization/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/introduction/</loc>
+        <loc>https://bevyengine.org/learn/contribute/project-information/release-process/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/migration-guides/</loc>
+        <loc>https://bevyengine.org/learn/contribute/project-information/working-groups/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/migration-guides/0.4-0.5/</loc>
+        <loc>https://bevyengine.org/learn/contribute/reference/</loc>
+        
     </url>
+    
+    
+    
     <url>
-        <loc>https://bevyengine.org/learn/book/migration-guides/0.5-0.6/</loc>
+        <loc>https://bevyengine.org/learn/contribute/reference/triage/</loc>
+        
     </url>
-    <url>
-        <loc>https://bevyengine.org/learn/book/next-steps/</loc>
-    </url>
-    <url>
-        <loc>https://bevyengine.org/learn/book/troubleshooting/</loc>
-    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/learn/errors/</loc>
+        
     </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/learn/errors/b0001/</loc>
+        
     </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/learn/errors/b0002/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/errors/b0003/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/errors/b0004/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/errors/b0005/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/errors/b0006/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/errors/introduction/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-10-to-0-11/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-11-to-0-12/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-12-to-0-13/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-13-to-0-14/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-14-to-0-15/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-4-to-0-5/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-5-to-0-6/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-6-to-0-7/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-7-to-0-8/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-8-to-0-9/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/0-9-to-0-10/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/migration-guides/introduction/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/</loc>
+        
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/getting-started/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/getting-started/apps/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/getting-started/ecs/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/getting-started/plugins/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/getting-started/resources/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/getting-started/setup/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/introduction/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/next-steps/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/plugin-development/</loc>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/learn/quick-start/troubleshooting/</loc>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/</loc>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-10/</loc>
+        
+        <lastmod>2023-03-06</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-11/</loc>
+        
+        <lastmod>2023-07-09</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-12/</loc>
+        
+        <lastmod>2023-11-04</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-13/</loc>
+        
+        <lastmod>2024-02-17</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-14/</loc>
+        
+        <lastmod>2024-07-04</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-15/</loc>
+        
+        <lastmod>2024-11-29</lastmod>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/bevy-0-2/</loc>
+        
         <lastmod>2020-09-19</lastmod>
+        
     </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/bevy-0-3/</loc>
+        
         <lastmod>2020-11-03</lastmod>
+        
     </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/bevy-0-4/</loc>
+        
         <lastmod>2020-12-19</lastmod>
+        
     </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/bevy-0-5/</loc>
+        
         <lastmod>2021-04-06</lastmod>
+        
     </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/bevy-0-6/</loc>
+        
         <lastmod>2022-01-08</lastmod>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-7/</loc>
+        
+        <lastmod>2022-04-15</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-8/</loc>
+        
+        <lastmod>2022-07-30</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-0-9/</loc>
+        
+        <lastmod>2022-11-12</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-at-rust-week/</loc>
+        
+        <lastmod>2025-01-07</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-foundation-501c3/</loc>
+        
+        <lastmod>2024-09-25</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-foundation/</loc>
+        
+        <lastmod>2024-03-11</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevy-webgpu/</loc>
+        
+        <lastmod>2023-05-17</lastmod>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/bevys-first-birthday/</loc>
+        
         <lastmod>2021-08-10</lastmod>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevys-fourth-birthday/</loc>
+        
+        <lastmod>2024-08-10</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevys-second-birthday/</loc>
+        
+        <lastmod>2022-08-10</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/bevys-third-birthday/</loc>
+        
+        <lastmod>2023-08-10</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/community-reflection-on-bevys-fourth-year/</loc>
+        
+        <lastmod>2024-09-11</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/community-reflection-on-bevys-third-year/</loc>
+        
+        <lastmod>2023-09-21</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/dream-job/</loc>
+        
+        <lastmod>2024-09-10</lastmod>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/introducing-bevy/</loc>
+        
         <lastmod>2020-08-10</lastmod>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/scaling-bevy-development/</loc>
+        
+        <lastmod>2023-01-14</lastmod>
+        
+    </url>
+    
+    
+    
     <url>
         <loc>https://bevyengine.org/news/scaling-bevy/</loc>
+        
         <lastmod>2020-08-19</lastmod>
+        
     </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/news/sme-announcements/</loc>
+        
+        <lastmod>2023-12-12</lastmod>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://bevyengine.org/sponsorship-pledge/</loc>
+        
+    </url>
+    
+    
 </urlset>
